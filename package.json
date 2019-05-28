@@ -1,0 +1,10 @@
+{
+    "author": "Vikram Durai",
+    "version": "v0.0.1",
+    "name": "editor",
+    "license": "LICENSE",
+    "description": "Work in progress editing software",
+    "dependencies": {
+        "electron": "v5.0.2"
+    }
+}
