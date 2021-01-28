@@ -5,6 +5,6 @@
     "license": "LICENSE",
     "description": "Work in progress editing software",
     "dependencies": {
-        "electron": "v5.0.2"
+        "electron": "v9.4.0"
     }
 }
